@@ -110,6 +110,7 @@ left: 7px;
     bottom: 55px;
     left: 50px;
     border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
     }
     
 .textosEtiqueta {
@@ -151,6 +152,7 @@ text-transform: none;
 position: relative;
     top: 45px;
     left: 85px;
+    border-radius: 4px;
 
 }
 
@@ -160,7 +162,7 @@ color: #FFF9F9;
 font-size: 15px;
 font-weight: 400;
 
-padding: 16px 671px 16px 16px;
+padding: 16px 0px 16px 16px;
 display: inline-block;
 border: 1px red solid;
 position:relative;
@@ -170,5 +172,6 @@ width: 1024px;
 
 footer span {
 width: 350px;
+align:center;
 
 }
